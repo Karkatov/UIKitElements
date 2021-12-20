@@ -27,7 +27,6 @@ class ThirdViewController: UIViewController, UIPickerViewDataSource, UIPickerVie
         
         let toolbarpicker = UIToolbar()
         toolbarpicker.sizeToFit()
-        
         let buttonDone = UIBarButtonItem(title: "Готово", style: .plain, target: .none, action: #selector(dissmisKeyboard))
         let space = UIBarButtonItem(barButtonSystemItem: .flexibleSpace, target: nil, action: nil)
         

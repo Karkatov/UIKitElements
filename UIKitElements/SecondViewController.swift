@@ -16,7 +16,7 @@ class SecondViewController: UIViewController {
         
         datePicker.center = view.center
         view.addSubview(datePicker)
-        datePicker.datePickerMode = .dateAndTime
+        datePicker.datePickerMode = .date
         datePicker.preferredDatePickerStyle = .wheels
         datePicker.maximumDate = datePicker.date
 

@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA2EA8F02770C0C4004707B4 /* PickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA2EA8EF2770C0C4004707B4 /* PickerViewController.swift */; };
 		FAC2C65A276F754900B1C60D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC2C659276F754900B1C60D /* AppDelegate.swift */; };
 		FAC2C65C276F754900B1C60D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC2C65B276F754900B1C60D /* SceneDelegate.swift */; };
 		FAC2C65E276F754900B1C60D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC2C65D276F754900B1C60D /* ViewController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA2EA8EF2770C0C4004707B4 /* PickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PickerViewController.swift; sourceTree = "<group>"; };
 		FAC2C656276F754900B1C60D /* UIKitElements.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIKitElements.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAC2C659276F754900B1C60D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAC2C65B276F754900B1C60D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				FAC2C66F276F76E400B1C60D /* DateViewController.swift */,
 				FAC2C671276F76F000B1C60D /* SwichViewController.swift */,
 				FAC2C673276F76F900B1C60D /* ThirdViewController.swift */,
+				FA2EA8EF2770C0C4004707B4 /* PickerViewController.swift */,
 				FAC2C662276F754A00B1C60D /* Assets.xcassets */,
 				FAC2C664276F754A00B1C60D /* LaunchScreen.storyboard */,
 				FAC2C667276F754A00B1C60D /* Info.plist */,
@@ -152,6 +155,7 @@
 			files = (
 				FAC2C670276F76E400B1C60D /* DateViewController.swift in Sources */,
 				FAC2C672276F76F000B1C60D /* SwichViewController.swift in Sources */,
+				FA2EA8F02770C0C4004707B4 /* PickerViewController.swift in Sources */,
 				FAC2C66E276F76D800B1C60D /* SecondViewController.swift in Sources */,
 				FAC2C674276F76F900B1C60D /* ThirdViewController.swift in Sources */,
 				FAC2C65E276F754900B1C60D /* ViewController.swift in Sources */,
